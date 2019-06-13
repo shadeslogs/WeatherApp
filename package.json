@@ -1,0 +1,26 @@
+{
+  "name": "testweather",
+  "version": "1.0.0",
+  "description": "Trying something with Weather app",
+  "main": "index.js",
+  "scripts": {
+    "test": "try try"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmorelli25/simple-nodejs-weather-app.git"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "Shades",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmorelli25/simple-nodejs-weather-app/issues"
+  },
+  "homepage": "https://github.com/bmorelli25/simple-nodejs-weather-app#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "yargs": "^13.2.4"
+  }
+}
